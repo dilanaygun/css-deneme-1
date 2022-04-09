@@ -1,0 +1,36 @@
+* {
+  background-color: rgb(243, 233, 235);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav {
+  border-bottom: 2px solid black;
+  text-align: center;
+}
+header {
+  border-top: 2px solid black;
+  border-bottom: 1px solid black;
+}
+h1 {
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.flex p {
+  color: deeppink;
+  font-size: 30px;
+}
+
+footer {
+  border-top: 2px solid black;
+  text-align: center;
+  color: black;
+}
+article {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
